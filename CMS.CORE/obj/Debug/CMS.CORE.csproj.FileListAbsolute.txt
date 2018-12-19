@@ -1,0 +1,7 @@
+D:\c# course\DefensiveCoding\DefensiveCoding\CMS.CORE\bin\Debug\CMS.CORE.dll.config
+D:\c# course\DefensiveCoding\DefensiveCoding\CMS.CORE\bin\Debug\CMS.CORE.dll
+D:\c# course\DefensiveCoding\DefensiveCoding\CMS.CORE\bin\Debug\CMS.CORE.pdb
+D:\c# course\DefensiveCoding\DefensiveCoding\CMS.CORE\obj\Debug\CMS.CORE.csprojAssemblyReference.cache
+D:\c# course\DefensiveCoding\DefensiveCoding\CMS.CORE\obj\Debug\CMS.CORE.csproj.CoreCompileInputs.cache
+D:\c# course\DefensiveCoding\DefensiveCoding\CMS.CORE\obj\Debug\CMS.CORE.dll
+D:\c# course\DefensiveCoding\DefensiveCoding\CMS.CORE\obj\Debug\CMS.CORE.pdb
